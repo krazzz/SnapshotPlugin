@@ -1,0 +1,11 @@
+/Applications/VisualVM.app/Contents/Resources/visualvm/platform=1403882254000
+cluster./Users/evgeniy/NetBeansProjects/SnapshotPlugin/build/cluster=1430479419000
+cluster./Applications/VisualVM.app/Contents/Resources/visualvm/platform=1403882254000
+cluster./Applications/VisualVM.app/Contents/Resources/visualvm/profiler=1403882322000
+cluster./Applications/VisualVM.app/Contents/Resources/visualvm/visualvm=1404139490000
+user=1430479419000
+crc=7
+locale=ru_RU
+branding=null
+java.version=1.8.0_11
+java.vm.version=25.11-b03
