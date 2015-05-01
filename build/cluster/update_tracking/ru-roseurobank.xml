@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="ru.roseurobank">
+    <module_version install_time="1430477064026" last="true" origin="installer" specification_version="1.0">
+        <file crc="3796874490" name="config/Modules/ru-roseurobank.xml"/>
+        <file crc="1355517765" name="modules/ext/junit-4.12.jar"/>
+        <file crc="4169045317" name="modules/ru-roseurobank.jar"/>
+    </module_version>
+</module>
