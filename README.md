@@ -10,7 +10,7 @@ Before use this plugin you should fill "File save path" and "Duration".
 Snapshot plugin progress console is used as information console.
 
 Issues:
-- Not all test cases covered, but it not neccessary. This plugin works greatly.
+- Not all test cases covered, but it's not neccessary. This plugin works greatly.
 
 View:
 
